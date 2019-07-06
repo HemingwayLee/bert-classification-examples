@@ -116,5 +116,5 @@ dmypy.json
 .pyre/
 
 # BERT
-bert_output/
-
+bert_output_jp/
+bert_output_en/
