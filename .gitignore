@@ -118,3 +118,4 @@ dmypy.json
 # BERT
 bert_output_jp/
 bert_output_en/
+bert_output_zh/
